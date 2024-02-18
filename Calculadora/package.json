@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "your-dev-command-here",
-    "start": "your-start-command-here"
+    "dev": "live-server",
+    "start": "live-server"
   },
   "keywords": [],
   "author": "Geraud Oliveira",
